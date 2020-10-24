@@ -15,6 +15,11 @@ We make the dataset under the following licenses:
 ## References
 If you use the source codes or datasets included here in your work, please cite the corresponding papers. The bibtex are listed below:
 ```
-
+@article{quan2020risawoz,
+  title={RiSAWOZ: A Large-Scale Multi-Domain Wizard-of-Oz Dataset with Rich Semantic Annotations for Task-Oriented Dialogue Modeling},
+  author={Quan, Jun and Zhang, Shian and Cao, Qian and Li, Zizhong and Xiong, Deyi},
+  journal={arXiv preprint arXiv:2010.08738},
+  year={2020}
+}
 
 ```
