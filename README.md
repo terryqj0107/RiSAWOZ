@@ -4,7 +4,7 @@ Please refer to the homepage of [RiSAWOZ](https://terryqj0107.github.io/RiSAWOZ_
 # RiSAWOZ
 Datasets and codes for the paper "RiSAWOZ: A Large-Scale Multi-Domain Wizard-of-Oz Dataset with Rich Semantic Annotations for Task-Oriented Dialogue Modeling". (EMNLP 2020)
 
-You can get the source codes and models of the five benchmark tasks from BaiduNetDisk (URL: https://pan.baidu.com/s/1BQImRCvnnP_nQzXVM1CTZQ), the password for BaiduNetDisk is 73jl.
+You can get the source codes and models of the five benchmark tasks from Google Drive (URL: https://drive.google.com/drive/folders/1LFEY2h0WGikOG1-fMAAnF0NkR8zpyoTG?usp=sharing) or BaiduNetDisk (URL: https://pan.baidu.com/s/1BQImRCvnnP_nQzXVM1CTZQ), the password for BaiduNetDisk is 73jl.
 
 
 
