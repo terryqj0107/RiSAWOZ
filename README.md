@@ -13,8 +13,8 @@ In order to alleviate the shortage of multi-domain data and to capture discourse
 
 ## Data License
 We make the dataset under the following licenses:
-*  Attribution 4.0 International (CC BY 4.0) license. 
-(License URL: https://creativecommons.org/licenses/by/4.0/)
+*  Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
+(License URL: https://creativecommons.org/licenses/by-nc/4.0/)
 
 
 ## References
